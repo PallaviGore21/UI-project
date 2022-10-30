@@ -1,0 +1,119 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:"Muli", sans-serif;
+
+}
+
+.button{
+    background-color: rgb(210, 139, 67);
+    padding-top: 5px;
+}
+
+.bgc{
+    background-color: rgba(35, 68, 104, 0.921);
+    padding-bottom: 1%;
+ 
+}
+input{
+    border-radius: 8%;
+   
+    column-gap: 50px;
+}
+.image{
+    background: url("https://images1.loopnet.com/i2/9dxAcLE9oO9uYTTSWFudo915k8Avc9liJw4c51kyNyU/116/image.jpg");
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    background-blend-mode: darken;
+}
+
+.text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: larger;
+
+}
+.furnicher-image{
+    background: url("https://cdn.shopify.com/s/files/1/0555/4333/t/7/assets/slide_2.jpg?v=148343325785508030591645301018");
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+   
+
+}
+.bgc-nevyBlue{
+    background-color: rgba(35, 68, 104, 0.921);
+}
+.text-size{
+    font-size: larger;
+    padding-left: 50px;
+}
+.Royal{
+    padding-left: 50px;
+}
+.goodmans-fileds{
+    background: url("https://www.berkeleygroup.co.uk/-/media/imported/developments/33200-33299/33263fullwidth.ashx?h=650&w=1920&rev=d70f9abd09974bd6a318395502e59ce4&hash=00922EEFCB23FD7DA00138B4B0EF6A90");
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.smithfield-square{
+    background: url("https://alto-live.s3.amazonaws.com/WvjsINSxGYc43ylnoBsNfFIka5c/GKEY4l07fVWoyBVTuURZDKBj8TI/Photo/[2]/EKB-3xpk_EqkOA3-h1JksQ.jpg");
+    height: 650px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.grey-bgc{
+    background-color: rgb(210, 139, 67);
+    padding-bottom: 1%;
+}
+.bor{
+    border: 3px solid  rgba(35, 68, 104, 0.921);
+    border-radius: 2%;
+}
+.pool-Table{
+    border-radius: 2%;
+}
+.writeMode{
+    display: flex;
+   writing-mode: vertical-rl;
+   transform: rotate(180deg);
+   font-size: larger;
+}
+.vl{
+    border-left: 1px solid rgb(102, 99, 99);
+    height: 600px;
+    left: 50%;
+    transform: rotate(180deg);
+}
+
+
+.but{
+  position: absolute;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.font{
+    font-size: 70px;
+}
+.gl{
+    transform: rotate(-360deg);
+    
+}
+
